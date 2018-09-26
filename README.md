@@ -4,6 +4,8 @@ This is simple .net framework based application to configure HC-06 bluetooth mod
 - Pair password
 - BAUD rate
 - Parity check type
+
+![HC-06 Programmer](https://raw.githubusercontent.com/dilshan/hc6-config/master/res/hc6-prog.png)
 ## Building and usage
 hc6-config binaries are available to download at [release](https://github.com/dilshan/hc6-config/releases) section of this page.
 
@@ -14,5 +16,6 @@ This application communicates with HC-06 module through COM port. To emulate the
 - CH340 USB to Serial module
 - CP2102 USB to Serial module
 
-If you are not familiar with the HC-06 Bluetooth module it's highly recommended to refer HC-06 datasheet first.
+![Basic wiring layout](https://raw.githubusercontent.com/dilshan/hc6-config/master/res/hc-06-wiring.png)
 
+If you are not familiar with the HC-06 Bluetooth module it's highly recommended to refer HC-06 datasheet first.
